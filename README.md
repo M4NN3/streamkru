@@ -4,7 +4,7 @@
 [![GitHub all releases](https://img.shields.io/github/downloads/m4nn3/streamkru/total?logo=github)](https://github.com/m4nn3/streamkru/releases/latest)
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/M4NN3/streamkru/main/screenshots/1636726136671.jpg" height="500"> <img src="https://raw.githubusercontent.com/M4NN3/streamkru/main/screenshots/1636728552448.jpg" height="500"> <img src="https://raw.githubusercontent.com/M4NN3/streamkru/main/screenshots/1636728552443.jpg" height="500"> <img src="https://raw.githubusercontent.com/M4NN3/streamkru/main/screenshots/1636728552452.jpg" width="825"> 
+<img src="https://raw.githubusercontent.com/M4NN3/streamkru/main/screenshots/1636726136671.jpg" height="500"> <img src="https://raw.githubusercontent.com/M4NN3/streamkru/main/screenshots/1636728552448.jpg" height="500"> <img src="https://raw.githubusercontent.com/M4NN3/streamkru/main/screenshots/1636728552443.jpg" height="500"> <img src="https://raw.githubusercontent.com/M4NN3/streamkru/main/screenshots/1636728552452.jpg" width="725"> 
 
 ## Features
   * Inicio de sesión con Google
